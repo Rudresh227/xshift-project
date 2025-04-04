@@ -70,7 +70,7 @@ const Login = () => {
                     </p>
 
                     <button 
-                        className="w-full bg-[#3C37FF] text-white py-3 rounded-lg font-semibold text-lg transition"
+                        className="w-full bg-[#3C37FF] text-white py-3 rounded-lg font-semibold text-lg transition cursor-pointer"
                         onClick={handleLogin}
                     >
                         Log in
